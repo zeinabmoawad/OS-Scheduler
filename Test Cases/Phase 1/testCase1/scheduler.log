@@ -1,0 +1,17 @@
+#At	Time	X	Process	Y	State	Arrived	W	Total	Z	Remain	Y	Wait	K
+#At	Time	1	Process	1	Started	Arrived	1	Total	12	Remain	12	Wait	0
+#At	Time	13	Process	1	Finished	Arrived	1	Total	12	Remain	0	Wait	0	TA	12	WTA	1.00
+#At	Time	13	Process	3	Started	Arrived	12	Total	7	Remain	7	Wait	1
+#At	Time	20	Process	3	Finished	Arrived	12	Total	7	Remain	0	Wait	1	TA	8	WTA	1.14
+#At	Time	20	Process	5	Started	Arrived	19	Total	8	Remain	8	Wait	1
+#At	Time	28	Process	5	Finished	Arrived	19	Total	8	Remain	0	Wait	1	TA	9	WTA	1.12
+#At	Time	28	Process	8	Started	Arrived	25	Total	3	Remain	3	Wait	3
+#At	Time	31	Process	8	Finished	Arrived	25	Total	3	Remain	0	Wait	3	TA	6	WTA	2.00
+#At	Time	31	Process	4	Started	Arrived	17	Total	11	Remain	11	Wait	14
+#At	Time	42	Process	4	Finished	Arrived	17	Total	11	Remain	0	Wait	14	TA	25	WTA	2.27
+#At	Time	42	Process	7	Started	Arrived	23	Total	5	Remain	5	Wait	19
+#At	Time	47	Process	7	Finished	Arrived	23	Total	5	Remain	0	Wait	19	TA	24	WTA	4.80
+#At	Time	47	Process	2	Started	Arrived	10	Total	4	Remain	4	Wait	37
+#At	Time	51	Process	2	Finished	Arrived	10	Total	4	Remain	0	Wait	37	TA	41	WTA	10.25
+#At	Time	51	Process	6	Started	Arrived	22	Total	7	Remain	7	Wait	29
+#At	Time	58	Process	6	Finished	Arrived	22	Total	7	Remain	0	Wait	29	TA	36	WTA	5.14
